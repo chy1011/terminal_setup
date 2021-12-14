@@ -76,6 +76,9 @@ else
     set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.DS_Store
 endif
 
+" Line numbers
+set number
+
 "Always show current position
 set ruler
 
