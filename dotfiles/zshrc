@@ -86,6 +86,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
+export PATH="/Users/chanhouyong/.local/share/solana/install/active_release/bin:/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
